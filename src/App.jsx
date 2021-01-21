@@ -36,6 +36,7 @@ export class App extends Component {
         <Contact data={this.state.landingPageData.Contact} />
       </div>
     )
+    
   }
 }
 
